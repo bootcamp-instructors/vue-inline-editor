@@ -1,10 +1,10 @@
 # vue-inline-editor
 
-An example webpage demonstrating data binding in VueJS.
+An example webpage demonstrating data binding in Vue.
 
 ## Languages and Frameworks
 
-This project uses VueJS.
+This project uses Vue.
 
 ## Directions
 
